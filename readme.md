@@ -7,7 +7,8 @@
 
 ```Final View of Project:```
 
-<img width="960" alt="penguin" src="https://github.com/user-attachments/assets/c02ab0dd-d99c-4c34-aace-b3170bd497ed">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/8075e725-700b-4669-8c2e-79884c4e2baa">
+
 
 
 ``` for dataset you can visit:```
